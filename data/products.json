@@ -1,0 +1,9 @@
+{
+    "products":
+    [
+        {"name":"Notebook legal","price":2400.0},
+        {"name":"Notebook feio","price":1400.0},
+        {"name":"Notebook top","price":4000.0},
+        {"name":"Macbook","price":15000.0}
+    ]
+}
